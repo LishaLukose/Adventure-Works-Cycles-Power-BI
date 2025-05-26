@@ -15,7 +15,7 @@ This repository contains interactive Power BI dashboards built for Adventure Wor
 
 ## Dataset
 
-- `DimCustomer.xlsx
+- `DimCustomer.xlsx`
 - `DimDate.xlsx`
 - `DimProduct.xlsx`
 - `DimSalesTerritory.xlsx`
